@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/aryanbadge786-png/CodingProblems/tree/master/0389-find-the-difference) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/aryanbadge786-png/CodingProblems/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/aryanbadge786-png/CodingProblems/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/aryanbadge786-png/CodingProblems/tree/master/2341-maximum-number-of-pairs-in-array) |
+## Counting
+|  |
+| ------- |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/aryanbadge786-png/CodingProblems/tree/master/2341-maximum-number-of-pairs-in-array) |
 <!---LeetCode Topics End-->
