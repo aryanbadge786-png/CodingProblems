@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/aryanbadge786-png/CodingProblems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/aryanbadge786-png/CodingProblems/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aryanbadge786-png/CodingProblems/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Counting
 |  |
